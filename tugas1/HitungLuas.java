@@ -5,7 +5,7 @@ public class hitungLuas {
     return panjang * lebar;
 	}
 	
-	static int cariLuasLingkaran(float r) {
+	static int cariLuasLingkaran(int r) {
     return 3.15 * (r * 2);
   }
 
