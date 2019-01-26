@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class hitungNilai {
+public class HitungNilai {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     String message;

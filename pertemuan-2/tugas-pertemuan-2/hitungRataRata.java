@@ -1,5 +1,6 @@
 import java.util.*;
-public class hitungRataRata {
+
+public class HitungRataRata {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 
