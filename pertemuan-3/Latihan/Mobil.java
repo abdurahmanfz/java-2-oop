@@ -31,10 +31,6 @@ public class Mobil {
   public void start() {
     started = true;
     System.out.println("Mobil dijalankan");
-    // System.out.println(started + " - " + kecMax + " - " + percepatan + " - " + kecAktual);
-    // System.out.println(kecAktual = kecAktual + percepatan);
-    // System.out.println(kecAktual);
-    // System.out.println(kecAktual / 2);
   }
 
   public void gas() {
